@@ -31,7 +31,5 @@ Les succès/échecs selon les acteurs
 #Perspectives
 
 Étendre l’analyse aux années postérieures à 2020
-
 Croiser avec des données économiques (budget des agences, coût par lancement)
-
 Intégrer une analyse prédictive des lancements à venir
